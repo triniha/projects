@@ -1,0 +1,6 @@
+projectKey=in.ashokit:01-Web-App
+serverUrl=http://54.237.74.71:9000
+serverVersion=7.8.0.26217
+dashboardUrl=http://54.237.74.71:9000/dashboard?id=in.ashokit%3A01-Web-App
+ceTaskId=AYqEQtaA8l5WtX63Npvq
+ceTaskUrl=http://54.237.74.71:9000/api/ce/task?id=AYqEQtaA8l5WtX63Npvq
